@@ -35,17 +35,6 @@ Full Stack Developer passionate about building robust web applications and explo
 
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=NazarKalytiuk&theme=flat&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-### Stats
-
-![Nazar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NazarKalytiuk&show_icons=true&theme=default&include_all_commits=true&count_private=true)
-
-### Streak
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NazarKalytiuk&theme=default)](https://git.io/streak-stats)
-
-### Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NazarKalytiuk&layout=compact&theme=default)
 
 ## Connect With Me
 
